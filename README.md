@@ -37,7 +37,7 @@ Follow the steps below to set up the project locally.
 
 1. **Clone the repository**:
    
-   cd Shininggit clone https://github.com/ZeZilly/Shine.git
+   cd Shining git clone https://github.com/ZeZilly/Shine.git
    
    cd Shine
    
