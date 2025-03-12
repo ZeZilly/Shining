@@ -36,6 +36,8 @@ Welcome to Shining Beauty, a professional web application for a spa center offer
 Follow the steps below to set up the project locally.
 
 1. **Clone the repository**:
-   ```sh
-   git clone https://github.com/ZeZilly/Shine.git
+   
+   cd Shininggit clone https://github.com/ZeZilly/Shine.git
+   
    cd Shine
+   
